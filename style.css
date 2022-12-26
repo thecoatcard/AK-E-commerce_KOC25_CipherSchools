@@ -16,7 +16,7 @@ body {
 }
 
 header {
-     position: fixed;
+    position: fixed;
     z-index: +5;
     margin-bottom: 30px;
     overflow: hidden;
